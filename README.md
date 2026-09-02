@@ -1,3 +1,7 @@
+> **Repository origin**
+>
+> This repository is based on the open-source **MagicMirror²** project by Michael Teeuw and contributors. The upstream project is https://github.com/MagicMirrorOrg/MagicMirror. The original MIT license and copyright notice are preserved in `LICENSE.md`. This repository should not be interpreted as claiming authorship of the MagicMirror² core.
+
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p style="text-align: center">
